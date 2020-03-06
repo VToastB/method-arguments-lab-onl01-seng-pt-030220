@@ -3,5 +3,5 @@ def (name)
 end
 
 def (hunter,ruby)
-  puts "Hi, my name is #{name} and I am learning to program in #{language}."
+  puts "Hi, my name is #{hunter} and I am learning to program in #{language}."
 end
